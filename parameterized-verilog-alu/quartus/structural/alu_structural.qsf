@@ -1,0 +1,11 @@
+set_global_assignment -name FAMILY "Cyclone II"
+set_global_assignment -name DEVICE EP2C20F484C7
+set_global_assignment -name TOP_LEVEL_ENTITY alu_structural
+set_global_assignment -name VERILOG_FILE ../../rtl/alu_structural.v
+set_global_assignment -name VERILOG_FILE ../../rtl/add_sub_unit.v
+set_global_assignment -name VERILOG_FILE ../../rtl/bidirectional_shifter.v
+set_global_assignment -name VERILOG_FILE ../../rtl/mux8to1.v
+set_global_assignment -name VERILOG_FILE ../../rtl/nand_unit.v
+set_global_assignment -name VERILOG_FILE ../../rtl/nor_unit.v
+set_global_assignment -name VERILOG_FILE ../../rtl/not_unit.v
+set_global_assignment -name VERILOG_FILE ../../rtl/xor_unit.v

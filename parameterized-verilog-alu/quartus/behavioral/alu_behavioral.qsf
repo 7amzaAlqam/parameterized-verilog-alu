@@ -1,0 +1,4 @@
+set_global_assignment -name FAMILY "Cyclone II"
+set_global_assignment -name DEVICE EP2C20F484C7
+set_global_assignment -name TOP_LEVEL_ENTITY alu_behavioral
+set_global_assignment -name VERILOG_FILE ../../rtl/alu_behavioral.v

@@ -1,0 +1,37 @@
+# Intel Quartus generated files
+db/
+incremental_db/
+output_files/
+*.qws
+*.qmsg
+*.rdb
+*.cdb
+*.hdb
+*.ddb
+*.hdbx
+*.kpt
+*.logdb
+*.ecobp
+*.bpm
+*.tdb
+*.sci
+*.abo
+*.atm
+*.dfp
+*.dpi
+*.rcf
+*.done
+*.sof
+*.pof
+*.pin
+*.jdi
+*.smsg
+*.summary
+*.rpt
+*.bak
+
+# Editors / OS
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
